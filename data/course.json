@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ebde8643-1410-392c-ea39-02a5e01c2971"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Economic History of Financial Crises",
+  "course_description": "This course gives a historical perspective on financial panics. Topics include the growth of the industrial world, the Great Depression and surrounding events, and more recent topics such as the first oil crisis, Japanese stagnation, and conditions following the financial crisis of 2008.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.71",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
